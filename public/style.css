@@ -1,0 +1,21 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex{
+    opacity: 1;
+    transition: opacity 0.2s ease-in-out;
+    width: 140px;
+
+}
+
+.flex:hover{
+    opacity: 0.4;
+}
+
+.flex .fa{
+    font-size: 40px;
+    color: rgba(0, 0, 0, 0.808);
+
+}
