@@ -58,9 +58,7 @@ function App() {
 							</div>
 						</div>
 					</div>
-					<div className='footer'>
-						Made by Kushagra 
-					</div>
+					
 				</>
 			)}
 		</div>
