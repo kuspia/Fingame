@@ -14,7 +14,6 @@
 - Bootstrap
 - React-Bootstrap
 - CSS
-- Vercel
 
 
 # Getting Started with Create React App
