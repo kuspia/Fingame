@@ -3,8 +3,8 @@ import InvestmentOption from "./InvestmentOption";
 import Details from "./ChoicesDetails";
 
 import CryptoBackground from "./images/BackgroundImages/crypto_background.jpg";
-import StocksBackground from "./images/BackgroundImages/stocks_background.png";
-import BankBackground from "./images/BackgroundImages/bank_background.png";
+import StocksBackground from "./images/BackgroundImages/stocks_background.jpg";
+import BankBackground from "./images/BackgroundImages/bank_background.jpg";
 import MiscBackground from "./images/BackgroundImages/misc_background.png";
 
 const Choices = () => {
